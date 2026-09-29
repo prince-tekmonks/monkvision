@@ -21,6 +21,7 @@ export const APP_CONSTANTS = {
 
     // Login constants
     API_LOGIN: API_PATH+"/login",
+    KLOUDUST_FRONTEND_ORIGIN: "<kd_frontend_url>",
     TKMLOGIN_LIB: `${APP_PATH}/3p/tkmlogin.mjs`,
     USERID: "userid",
     TIMEOUT: 600000,
